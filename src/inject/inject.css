@@ -1,0 +1,29 @@
+.Good {
+    color: green;
+}
+
+.Ehh {
+    color: rgb(203, 132, 0);
+}
+
+.Bad {
+    color: rgb(181, 16, 16);
+}
+
+.modal-backdrop {
+    z-index: -1 !important;
+}
+
+.ProfLink {
+    text-decoration: none;
+    text-decoration-color: unset;
+}
+
+.ProfLink:hover {
+    text-decoration: underline !important;
+}
+
+.popover {
+    max-width: 100% !important;
+    width: 45vw;
+}
