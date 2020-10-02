@@ -1,12 +1,12 @@
-.Good {
+.high_quality {
     color: green;
 }
 
-.Ehh {
+.average {
     color: rgb(203, 132, 0);
 }
 
-.Bad {
+.poor {
     color: rgb(181, 16, 16);
 }
 
@@ -14,12 +14,12 @@
     z-index: -1 !important;
 }
 
-.ProfLink {
+.professor_link {
     text-decoration: none;
     text-decoration-color: unset;
 }
 
-.ProfLink:hover {
+.professor_link:hover {
     text-decoration: underline !important;
 }
 
